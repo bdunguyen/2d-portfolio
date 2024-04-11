@@ -6,11 +6,11 @@ k.loadSprite("spritesheet", "./spritesheet.png"), {
     sliceY: 31,
     anims: {
         // hook up names to specific animations
-        "idle-down": 936,
-        "walk-down": { from: 936, to: 939, loop: true, speed: 8 },
-        "idle-side": 975,
-        "walk-side": { from: 975, to: 978, loop: true, speed: 8 },
-        "idle-up": 1014,
-        "walk-up": { from: 1014, to: 1017, loop: true, speed: 8 },
+        "idle-down": 960,
+        "walk-down": { from: 960, to: 963, loop: true, speed: 8 },
+        "idle-side": 999,
+        "walk-side": { from: 999, to: 1002, loop: true, speed: 8 },
+        "idle-up": 1038,
+        "walk-up": { from: 1038, to: 1041, loop: true, speed: 8 },
     }
 };
