@@ -58,7 +58,7 @@ k.scene("main", async () => {
                 ]);
                 if (boundary.name) {
                     player.onCollide(boundary.name, () => {
-                        CSSFontPaletteValuesRule.isinDialouge = true;
+                        player.isinDialogue = true;
                         // todo
                     });
                 }
