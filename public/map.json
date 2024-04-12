@@ -345,7 +345,7 @@
                 {
                  "height":15,
                  "id":29,
-                 "name":"",
+                 "name":"bed",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -384,12 +384,12 @@
         {
          "draworder":"topdown",
          "id":6,
-         "name":"spawnpoint",
+         "name":"spawnpoints",
          "objects":[
                 {
                  "height":0,
                  "id":20,
-                 "name":"player_spawn",
+                 "name":"player",
                  "point":true,
                  "rotation":0,
                  "type":"",
