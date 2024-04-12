@@ -235,7 +235,7 @@
                 {
                  "height":16,
                  "id":17,
-                 "name":"",
+                 "name":"exit",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -257,7 +257,7 @@
                 {
                  "height":22,
                  "id":21,
-                 "name":"",
+                 "name":"book1",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -268,7 +268,7 @@
                 {
                  "height":23.5,
                  "id":22,
-                 "name":"",
+                 "name":"book2",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -279,7 +279,7 @@
                 {
                  "height":22.5,
                  "id":23,
-                 "name":"",
+                 "name":"book3",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -290,7 +290,7 @@
                 {
                  "height":23.5,
                  "id":24,
-                 "name":"",
+                 "name":"book4",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "height":12,
                  "id":25,
-                 "name":"",
+                 "name":"sofa",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -312,7 +312,7 @@
                 {
                  "height":19.5,
                  "id":26,
-                 "name":"",
+                 "name":"computer",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -323,7 +323,7 @@
                 {
                  "height":19.5,
                  "id":27,
-                 "name":"",
+                 "name":"television",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -334,7 +334,7 @@
                 {
                  "height":8.5,
                  "id":28,
-                 "name":"",
+                 "name":"resume",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -352,6 +352,28 @@
                  "width":25.5,
                  "x":371.5,
                  "y":96.5
+                }, 
+                {
+                 "height":7.5,
+                 "id":31,
+                 "name":"degree",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":11.5,
+                 "x":178,
+                 "y":100.5
+                }, 
+                {
+                 "height":21,
+                 "id":32,
+                 "name":"book5",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":9,
+                 "x":435.5,
+                 "y":83.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -367,7 +389,7 @@
                 {
                  "height":0,
                  "id":20,
-                 "name":"",
+                 "name":"player_spawn",
                  "point":true,
                  "rotation":0,
                  "type":"",
@@ -383,7 +405,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":30,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
