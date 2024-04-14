@@ -11,6 +11,7 @@ export const dialogueData = {
   "book1": `I own many books! I buy books faster than I can read them but my favorite on this bookshelf is "The Course of Love".`,
   "book2": `"Everything I Never Told You" is a drama book about family dynamics and it's on this shelf.`,
   "book3": `I've started some books that I haven't finished yet because I get distracted with other books! "Homosapiens" was one of them that I intend to finish`,
-  "book4": `Here's where I keep my current reads! I am currently readying "Heaven".`,
+  "book4": `Another book that I've finished recently was "Someone who will love you in all your damaged glory"`,
+  "book5": `Here's where I keep my current reads! I am currently readying "Heaven".`,
   "exit": `If you want to exit my portfolio, just close the tab.`,
 };
